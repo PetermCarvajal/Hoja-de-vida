@@ -1,0 +1,48 @@
+#Linea1{
+    position: relative;
+    top: -20px;
+    width:85%;
+}
+#Tabla{
+   position: relative;
+   top:-30px;
+   left:140PX;
+
+}
+#InformacionAcademica{
+position:relative;
+top:-30px;
+}
+#Linea2{
+    position: relative;
+    top:-50px;
+    width:85%;
+}
+#Parrafo1{
+  position: relative;
+  top:-63px;
+  left:145px;  
+}
+#Linea3{
+  width:35%;
+  position: relative;
+  top:-25px;
+  left:475px;  
+}
+h3{
+   position: relative;
+   left:145px; 
+}
+.NoCarga{
+position:relative;
+justify-content: center;
+}
+#Linea4{
+ position: relative;
+ width:85%; 
+}
+#Firma{
+ position: relative;
+ left:1100px;
+ bottom:40px;
+}
